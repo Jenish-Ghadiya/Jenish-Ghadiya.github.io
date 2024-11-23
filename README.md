@@ -14,26 +14,3 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FFD2,100:00A3FF&height=120&section=footer)
 </div>
-
-React
-
-Reply
-
-
-
-
-
-
-
-
-
-
-
-
-Message Yash babariya
-
-
-
-
-
-
