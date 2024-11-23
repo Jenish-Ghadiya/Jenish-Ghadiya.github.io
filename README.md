@@ -20,7 +20,7 @@
 
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-babariya&theme=dark&bg_color=0D1117&hide_border=true&layout=compact&title_color=00FFD2"/>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FFD2,100:00A3FF&height=120&section=footer)
 
