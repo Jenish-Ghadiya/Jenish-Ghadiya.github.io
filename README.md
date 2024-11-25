@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,2&height=200&section=header&text=Yash%20Babariya&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,2&height=200&section=header&text=Jenish%20Ghadiya&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Animated Emojis -->
 <p align="center" style="display: flex; justify-content: space-between; max-width: 960px;">
@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Status-OK-00ff00?style=for-the-badge&logo=matrix&logoColor=white"/>
   <img src="https://img.shields.io/badge/System-Online-00ff00?style=for-the-badge&logo=matrix&logoColor=white"/>
 </p>
-
 
 <!-- GitHub Stats -->
 <p align="center">
@@ -73,11 +72,11 @@
     </div>
   </a>
 
-  <!-- MyFamilyHelper -->
-  <a href="https://github.com/yash-babariya/myfamilyhelper" target="_blank" style="text-decoration: none;">
+  <!-- Classic Motel -->
+  <a href="https://classic-motel.vercel.app/" target="_blank" style="text-decoration: none;">
     <div style="background: #1a1b27; padding: 20px; border-radius: 12px; border: 1px solid #2d2d2d; transition: all 0.3s;">
-      <img src="https://img.shields.io/badge/👨‍👩‍👧‍👦_MyFamilyHelper-1a1b27?style=for-the-badge&logo=homebridge&logoColor=3DDCFF"/>
-      <p style="color: #fff; font-size: 14px;">Family Information Management System - A comprehensive platform to maintain and organize family members' information in one centralized, secure location.</p>
+      <img src="https://img.shields.io/badge/🏨_Classic_Motel-1a1b27?style=for-the-badge&logo=homebridge&logoColor=3DDCFF"/>
+      <p style="color: #fff; font-size: 14px;">Classic Motel - Your home away from home. Experience comfortable stays with modern amenities and exceptional service.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
@@ -85,11 +84,8 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://myfamilyhelper.vercel.app" target="_blank">
+        <a href="https://classic-motel.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square"/>
-        </a>
-        <a href="https://github.com/yash-babariya/myfamilyhelper" target="_blank">
-          <img src="https://img.shields.io/badge/Source-Code-181717?style=flat-square"/>
         </a>
       </p>
     </div>
@@ -109,20 +105,20 @@
 
 ## 🤝 LET'S CONNECT
 <p align="center">
-  <a href="https://linkedin.com/in/yash-babariya-a370b52a5" target="_blank">
+  <a href="https://linkedin.com/in/jenish-ghadiya" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yashbabariyaeklera@gmail.com">
+  <a href="mailto:jenishvghadiya@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://yash-babariya.netlify.app/" target="_blank">
+  <a href="https://classic-motel.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/yashbabariyaeklera/" target="_blank">
+  <a href="https://www.instagram.com/jenish_ghadiya/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="tel:+918553535342">
-    <img src="https://img.shields.io/badge/-+91_8553535342-4285F4?style=for-the-badge&logo=mobile&logoColor=white"/>
+  <a href="tel:+919898144191">
+    <img src="https://img.shields.io/badge/-+91_9898144191-4285F4?style=for-the-badge&logo=mobile&logoColor=white"/>
   </a>
 </p>
 
