@@ -1,27 +1,137 @@
 <div align="center">
+
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,2&height=200&section=header&text=Yash%20Babariya&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+<!-- Animated Emojis -->
+<p align="center" style="display: flex; justify-content: space-between; max-width: 960px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="50" height="50"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3DDCFF&center=true&vCenter=true&random=false&width=435&lines=MERN+Stack+Developer+%F0%9F%9A%80;Code+Craftsman+%F0%9F%94%A8;Problem+Solver+%F0%9F%A7%A9;Innovation+Enthusiast+%F0%9F%92%A1"/>
+</p>
+
+<!-- Hacker Style Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-OK-00ff00?style=for-the-badge&logo=matrix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System-Online-00ff00?style=for-the-badge&logo=matrix&logoColor=white"/>
+</p>
+
+
+<!-- GitHub Stats -->
+<p align="center">
+  <a href="https://github.com/yash-babariya">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yash-babariya&show_icons=true&theme=react&bg_color=0D1117&title_color=3DDCFF&icon_color=3DDCFF&hide_border=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-babariya&layout=compact&theme=react&bg_color=0D1117&title_color=3DDCFF&hide_border=true"/>
+  </a>
+</p>
+
+## 🚀 TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,typescript,nextjs,redux,git,docker&theme=dark&perline=5"/>
+</p>
+
+<!-- Tools & Technologies -->
+## ⚡ TOOLS & TECHNOLOGIES
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+<!-- Featured Projects -->
+## 🌟 FEATURED PROJECTS
+
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; max-width: 1200px; margin: 20px auto;">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00FFD2,100:00A3FF&height=190&section=header&text=Jenish%20Ghadiya&fontSize=70&fontColor=fff&animation=fadeIn)
+  <!-- Just Add -->
+  <a href="https://github.com/yash-babariya/justadd" target="_blank" style="text-decoration: none;">
+    <div style="background: #1a1b27; padding: 20px; border-radius: 12px; border: 1px solid #2d2d2d; transition: all 0.3s;">
+      <img src="https://img.shields.io/badge/🛍️_Just_Add-1a1b27?style=for-the-badge&logo=shopify&logoColor=3DDCFF"/>
+      <p style="color: #fff; font-size: 14px;">Your Online Shopping Partner - Discover the best deals on electronics, fashion, and more. Your go-to destination for top products and exceptional savings.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://justadd.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square"/>
+        </a>
+        <a href="https://github.com/yash-babariya/justadd" target="_blank">
+          <img src="https://img.shields.io/badge/Source-Code-181717?style=flat-square"/>
+        </a>
+      </p>
+    </div>
+  </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFD2&center=true&vCenter=true&width=440&lines=MERN+Stack+Developer+⚡;Building+Digital+Solutions+🚀" alt="Typing SVG" />
+  <!-- MyFamilyHelper -->
+  <a href="https://github.com/yash-babariya/myfamilyhelper" target="_blank" style="text-decoration: none;">
+    <div style="background: #1a1b27; padding: 20px; border-radius: 12px; border: 1px solid #2d2d2d; transition: all 0.3s;">
+      <img src="https://img.shields.io/badge/👨‍👩‍👧‍👦_MyFamilyHelper-1a1b27?style=for-the-badge&logo=homebridge&logoColor=3DDCFF"/>
+      <p style="color: #fff; font-size: 14px;">Family Information Management System - A comprehensive platform to maintain and organize family members' information in one centralized, secure location.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://myfamilyhelper.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square"/>
+        </a>
+        <a href="https://github.com/yash-babariya/myfamilyhelper" target="_blank">
+          <img src="https://img.shields.io/badge/Source-Code-181717?style=flat-square"/>
+        </a>
+      </p>
+    </div>
+  </a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash-babariya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-babariya-a370b52a5)
-![Views](https://komarev.com/ghpvc/?username=yash-babariya&style=for-the-badge&color=00FFD2)
+</div>
 
-### 🎓 BCA Graduate | 💼 MERN Developer | 📍 Surat, Gujarat
+<!-- View All Projects -->
+<p align="center">
+  <a href="https://github.com/yash-babariya?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View_All_Projects-3DDCFF?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
 
-[![Just Add](https://img.shields.io/badge/Just%20Add-Online%20Shopping-00FFD2?style=flat-square&logo=react)](https://justadd.vercel.app)
-[![MyFamilyHelper](https://img.shields.io/badge/MyFamilyHelper-Family%20Management-00FFD2?style=flat-square&logo=react)](https://myfamilyhelper.vercel.app)
+## 📈 CONTRIBUTION GRAPH
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-babariya&custom_title=Contribution%20Graph&bg_color=0D1117&color=3DDCFF&line=3DDCFF&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,html,css,redux,git,vscode&theme=dark&perline=5"/>
+## 🤝 LET'S CONNECT
+<p align="center">
+  <a href="https://linkedin.com/in/yash-babariya-a370b52a5" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yashbabariyaeklera@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://yash-babariya.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/yashbabariyaeklera/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="tel:+918553535342">
+    <img src="https://img.shields.io/badge/-+91_8553535342-4285F4?style=for-the-badge&logo=mobile&logoColor=white"/>
+  </a>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yash-babariya&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&icon_color=00FFD2&title_color=00FFD2"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-babariya&theme=dark&background=0D1117&hide_border=true&ring=00FFD2&fire=00FFD2&currStreakLabel=00FFD2"/>
+<!-- Proud Indian Section -->
+<p align="center" style="margin-top: 50px;">
+  <img src="https://img.shields.io/badge/🇮🇳_Proud_to_be-Indian-138808?style=for-the-badge&labelColor=FF9933&color=138808&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNiAxOCI+PHJlY3Qgd2lkdGg9IjM2IiBoZWlnaHQ9IjE4IiBmaWxsPSIjZmZmIi8+PC9zdmc+" />
+</p>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-babariya&theme=dark&bg_color=0D1117&hide_border=true&layout=compact&title_color=00FFD2"/>
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FFD2,100:00A3FF&height=120&section=footer)
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,2&height=100&section=footer"/>
 
 </div>
